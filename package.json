@@ -1,0 +1,20 @@
+{
+  "name": "automatiomastereclass",
+  "version": "1.0.0",
+  "description": "Web Automation Master Class",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mizan mahi",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "dotenv-cli": "^3.2.0",
+    "jsdom": "^16.4.0",
+    "puppeteer": "^5.2.1"
+  },
+  "devDependencies": {
+    "debug": "^4.1.1"
+  }
+}
